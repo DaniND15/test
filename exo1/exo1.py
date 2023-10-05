@@ -6,3 +6,5 @@ class Item:
     def salut(self):
         print("salut")
 
+    def fonction(self):
+        print('no')
