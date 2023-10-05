@@ -7,4 +7,4 @@ class Item:
         print("salut")
 
     def fonction(self):
-        print('no')
+        print('noos')
