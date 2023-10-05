@@ -3,5 +3,6 @@ class Item:
         self.price = price
         self.weight = weight
     def gain (self, p):
+        print("ls")
         pass
 
