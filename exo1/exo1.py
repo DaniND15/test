@@ -3,4 +3,6 @@ class Item:
         self.price = price
         self.weight = weight
 
+    def salut(self):
+        print("salut")
 
