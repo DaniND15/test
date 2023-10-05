@@ -6,3 +6,5 @@ class Item:
         print("ls")
         pass
 
+    def pull(self, p)
+        pass
